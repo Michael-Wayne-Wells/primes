@@ -1,29 +1,20 @@
-# _ _
+# _Prime number sifter_
 
-#### _  _
+#### _Enter a number, find all the primes before it._
 
 #### By _**Michael Wells**_
 
 ## Description
 
-_ _
+Enter a number and the program will return all of the prime numbers from 0 to the entered number.
 
-|Behavior|Input|Output|
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
 ## Setup/Installation Requirements
+Clone reopsitory
 
-* _Launch <https://michael-wayne-wells.github.io/(---------)> in your browser._
-### OR ###
-* clone and open the file locally
-* _in terminal run:_
->$git clone https://github.com/Michael-Wayne-Wells/(------).git
-* _open index.html in your browser._
+> $cd prime-sift
 
-
+> $ruby ruby_script.rb
 
 ## Known Bugs
 
